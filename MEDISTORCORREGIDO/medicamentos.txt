@@ -1,0 +1,15 @@
+Medicamento 1:
+Nombre: Loratadina
+Cantidad: 80
+Precio unitario: 0.14
+Porcentaje Descuento: 0.00
+Medicamento 2:
+Nombre: Paracetamol
+Cantidad: 20
+Precio unitario: 0.13
+Porcentaje Descuento: 0.00
+Medicamento 3:
+Nombre: Aspirina
+Cantidad: 12
+Precio unitario: 0.12
+Porcentaje Descuento: 0.00

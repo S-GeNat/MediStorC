@@ -1,0 +1,5 @@
+Cedula: 1727509513
+Fecha: 09/07/2024
+Total de productos comprados: 12
+Valor total de la compra: 2.88
+
